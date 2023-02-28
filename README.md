@@ -1,2 +1,2 @@
 # misc
-Miscellaneous personal programs
+Miscellaneous programs
